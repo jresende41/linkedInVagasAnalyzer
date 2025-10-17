@@ -4,8 +4,8 @@ import time
 import subprocess
 
 # Seus dados de login
-EMAIL = "jef.rsd.contato@gmail.com"
-PASSWORD = "mLadro1T"
+EMAIL = ""
+PASSWORD = ""
 
 # Abre o navegador Chrome
 driver = webdriver.Chrome()
